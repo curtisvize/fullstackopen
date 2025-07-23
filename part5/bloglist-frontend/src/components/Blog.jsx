@@ -3,8 +3,6 @@ import { useState } from 'react'
 const Blog = ({ blog, like, remove, username }) => {
   const [details, setDetails] = useState(false)
 
-  const visible = { display: details ? '' : 'none' }
-
   const toggleDetails = () => {
     setDetails(!details)
   }
