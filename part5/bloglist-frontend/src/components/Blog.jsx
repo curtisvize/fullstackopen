@@ -43,8 +43,8 @@ const Blog = ({ blog, like, remove, username }) => {
             }
           </div>
         }
-        </div>
       </div>
+    </div>
   )
 }
 
