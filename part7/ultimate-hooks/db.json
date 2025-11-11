@@ -1,0 +1,76 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "hello! this is a test",
+      "id": 3
+    },
+    {
+      "content": "hello! this is a test",
+      "id": 4
+    },
+    {
+      "content": "test",
+      "id": 5
+    },
+    {
+      "content": "test",
+      "id": 6
+    },
+    {
+      "content": "test",
+      "id": 7
+    },
+    {
+      "content": "another test!",
+      "id": 8
+    },
+    {
+      "content": "another test?",
+      "id": 9
+    },
+    {
+      "content": "hellooooooooo",
+      "id": 10
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "curtis",
+      "number": "12345",
+      "id": 3
+    },
+    {
+      "name": "mitsu",
+      "number": "54321",
+      "id": 4
+    },
+    {
+      "name": "mitsu",
+      "number": "55555",
+      "id": 5
+    },
+    {
+      "name": "mitsu again",
+      "number": "9999999",
+      "id": 6
+    }
+  ]
+}
